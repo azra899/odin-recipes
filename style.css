@@ -1,0 +1,21 @@
+.recipes {
+    border: 1px solid blue;
+    background-color: pink;
+    padding: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    color: white;
+    width: fit-content;
+    align-content: center;
+    margin: auto;
+}
+.recipes img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+}
+.recipes ul {
+    list-style: none;
+    text-align: center;
+}
